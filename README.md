@@ -1,4 +1,3 @@
-# CSV_Data_Analyzer
 # CSV Data Analyzer
 
 ## Problem Statement
